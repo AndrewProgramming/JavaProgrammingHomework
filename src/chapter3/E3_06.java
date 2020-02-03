@@ -1,6 +1,6 @@
-package chapter1;
+package chapter3;
 
-public class E6_11 {
+public class E3_06 {
 
   public static void main(String[] args) {
     System.out.println("Population projection");

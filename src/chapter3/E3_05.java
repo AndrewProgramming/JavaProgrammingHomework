@@ -1,6 +1,6 @@
-package chapter1;
+package chapter3;
 
-public class E1_05 {
+public class E3_05 {
 
   public static void main(String[] args) {
     System.out.println("area: " + area(4.5, 7.9));
